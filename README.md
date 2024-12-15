@@ -78,15 +78,15 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=dvlboo&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="dvlboo" height="170em"/>
-	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dvlboo&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=anggjs&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="anggajs" height="170em"/>
+	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggajs&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="dvlboo" height="170em"/>
 </p>
 
 
 <div align="center">
 	<br/>
 	<a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=dvlboo&theme=midnight-purple&fire=EBA108" alt="dvlboo" />
+	<img src="https://streak-stats.demolab.com?user=dvlboo&theme=midnight-purple&fire=EBA108" alt="anggajs" />
 	</a>
 </div>
 
@@ -95,8 +95,8 @@
 <div align="center"> 
 	<br/>
 	<p>Visitor count</p>
-	<a href="https://github.com/dvlboo">
-  	<img src="https://profile-counter.glitch.me/dvlboo/count.svg" />
+	<a href="https://github.com/anggajs">
+  	<img src="https://profile-counter.glitch.me/anggajs/count.svg" />
 	</a>
 	<p>anggjs | 2024</p>
 </div>
